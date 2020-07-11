@@ -1,0 +1,7 @@
+老师，我想请教您一个问题，
+
+问题描述：
+
+    一般情况下nginx连接php只用在其配置文件的location处注明fastcgi_pass 127.0.0.1:9000就行了。
+
+   现在我使用docker service create创建了3个php副本（如下图），那如果再通过docker service create创建的nginx
