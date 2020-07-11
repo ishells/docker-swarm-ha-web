@@ -12,37 +12,43 @@
 
 #### 二、几个重要的配置文件
 > 1、目录结构
->> ![image.png](https://www.ishells.cn/upload/2020/07/image-3624eea66de94902896ca50a0db40a4b.png)
+![image.png](https://www.ishells.cn/upload/2020/07/image-3624eea66de94902896ca50a0db40a4b.png)
 > 
 
 ### 三、集群搭建准备：
 #### 3.1 集群拓扑
->![image.png](https://www.ishells.cn/upload/2020/07/image-9c622646e8404a42b00633c0728304f3.png)
+![image.png](https://www.ishells.cn/upload/2020/07/image-9c622646e8404a42b00633c0728304f3.png)
 >
 #### 3.2 二进制安装docker（ 可使用yum 安装docker ）
 >>[docker下载地址](https://download.docker.com/linux/static/stable/x86_64/docker-19.03.9.tgz)
 >>#### 3.2.1  manager1节点
 >>
 >> ① manager1解压二进制包
->>![image.png](https://www.ishells.cn/upload/2020/07/image-c5dae8571108496ab18796755576ec73.png)
+>>
+![image.png](https://www.ishells.cn/upload/2020/07/image-c5dae8571108496ab18796755576ec73.png)
 >>
 >> ② 设置systemed管理
->>![image.png](https://www.ishells.cn/upload/2020/07/image-c283ecfd94a141a393ce5b32818849cd.png)
+>>
+![image.png](https://www.ishells.cn/upload/2020/07/image-c283ecfd94a141a393ce5b32818849cd.png)
 >>
 >> ③ 启动并开机自启
->>![image.png](https://www.ishells.cn/upload/2020/07/image-d177c20b208b41aa873f7b11c02bcf94.png)
+>>
+![image.png](https://www.ishells.cn/upload/2020/07/image-d177c20b208b41aa873f7b11c02bcf94.png)
 >>
 >>#### 3.2.2 manager2节点 
 >>
 >> ① manager2解压安装包
 >>
+>>
 >>![image.png](https://www.ishells.cn/upload/2020/07/image-4cbdae8a412d4dce8638fb2e9cec02a6.png) 
 >>
 >> ② 设置systemed管理
 >>
+>>
 >>![image.png](https://www.ishells.cn/upload/2020/07/image-9866b7571dfe49ccadda988edee4aa77.png)
 >>
 >> ③ 启动并开机自启
+>>
 >>
 >>![image.png](https://www.ishells.cn/upload/2020/07/image-04900c5c223242e8bc74677ffeec4563.png)
 >>
@@ -60,7 +66,7 @@
 >>
 >> ① node1节点解压
 >>
->>![image.png](https://www.ishells.cn/upload/2020/07/image-d75092792c24411aa85cf2a265304343.png)
+![image.png](https://www.ishells.cn/upload/2020/07/image-d75092792c24411aa85cf2a265304343.png)
 >>
 >> ② 设置systemd管理
 >>
