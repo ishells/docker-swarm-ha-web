@@ -76,7 +76,9 @@
 #### 3.3 搭建私有镜像仓库：
 >> ① docker pull registry拉取registry镜像仓库
 >>
+
 ![image.png](https://www.ishells.cn/upload/2020/07/image-a2d35a6436964d1b8219cce7613a0f29.png)
+
 >>
 >>② 启动镜像容器并挂载本地目录
 >>
