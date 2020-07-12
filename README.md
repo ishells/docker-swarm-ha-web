@@ -13,7 +13,7 @@
 #### 二、几个重要的配置文件
 > 1、目录结构
 
-![image.png](https://www.ishells.cn/upload/2020/07/image-fafef39ea9ed490d918b2151ce072391.png)
+![image](https://www.ishells.cn/upload/2020/07/image-fafef39ea9ed490d918b2151ce072391.png)
 
 
 ### 三、集群搭建准备：
