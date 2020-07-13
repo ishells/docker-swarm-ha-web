@@ -1,3 +1,5 @@
+[详细搭建步骤可见博客](https://www.ishells.cn/archives/docker-swarm-ha-web)
+
 #### docker-swarm-ha-web
 > 一个基于docker swarm的简单高可用web集群
 
